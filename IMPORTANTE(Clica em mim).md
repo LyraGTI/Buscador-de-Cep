@@ -19,7 +19,11 @@ E aí, animados para colocar a mão na massa? Tenho certeza de que será um proj
 
 Divirtam-se codando e até a próxima! 😄🚀
 
-Link para Download:https://drive.google.com/file/d/1bfOntcPeAt3A850ovYCmxGts3EhUPqTq/view?usp=sharing
+Link para Download:https://uploadnow.io/f/VqYCYSW
+
+Ou então passe seu QR Code!!!
+![uploadnow io_download_VqYCYSW](https://github.com/LyraGTI/Buscador-de-Cep/assets/106109743/a741e178-1a00-439d-9aa1-502cf3dccd71)
+
 
 ![buscaCep1](https://github.com/LyraGTI/Buscador-de-Cep/assets/106109743/ab4cc378-93d1-4548-81a8-3d04bbf00da5)
 
