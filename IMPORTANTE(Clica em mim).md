@@ -1,6 +1,7 @@
 # Buscador-de-Cep
 
 Link para Download do Projeto no final do texto!
+
 Olá, pessoal! Bem-vindos ao meu projeto super legal em ReactJS e CSS, onde vamos explorar a incrível API do ViaCEP. Preparem-se para mergulhar em um mundo de CEPs e informações geográficas!
 
 Para começar, vamos entender o que é o ViaCEP. Essa API maravilhosa nos permite buscar informações detalhadas sobre um determinado CEP. Podemos obter dados como o nome da rua, bairro, cidade, estado e até mesmo o código IBGE. É uma mão na roda quando precisamos trabalhar com endereços em nossas aplicações.
